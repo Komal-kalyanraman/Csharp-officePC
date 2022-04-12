@@ -1,0 +1,1 @@
+{"UseCase":"BoschConference", "SocketEnergyThreshold":0, "StartTime":0, "EndTime":0, "Timer":1}
